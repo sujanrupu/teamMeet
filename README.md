@@ -1,4 +1,4 @@
-# Ak-Meet
+# Team-Meet
 
 A Video Calling application.
 
